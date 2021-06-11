@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/reube/source/repos/JAGER/Content/video/intro.wmv</SourceFile>
+  <SourceTime>2021-05-15T21:09:38.4631412+01:00</SourceTime>
+  <DestFile>C:/Users/reube/source/repos/JAGER/Content/bin/Windows/Content/video/intro.xnb</DestFile>
+  <DestTime>2021-05-15T21:10:51.8608159+01:00</DestTime>
+  <Importer>WmvImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+01:00</ImporterTime>
+  <Processor>VideoProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/reube/source/repos/JAGER/Content/bin/Windows/Content/video/intro.wmv</string>
+  </BuildOutput>
+</PipelineBuildEvent>
